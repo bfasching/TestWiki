@@ -7,14 +7,15 @@ These do not work
 * Link 4 to [topic1](/subdir/topic1.html)
 
 This one does and uses a relative path, renaming an "md" file as "html".
-* Link 5 to [topic1](subdir/topic1.html) 
+* Link 5 to [topic1](subdir/topic1.html) (works)
+* Link 5 to [topic1](subdir/topic1.md) 
 
 ---
 
 This one uses a permalink.
 
-* Link to [topic2](sub/topic2.html)
-* Link 2 to [topic2](sub/topic2)
+* Link to [topic2](sub/topic2.html) (works)
+* Link 2 to [topic2](sub/topic2) (works)
 
 ----
 

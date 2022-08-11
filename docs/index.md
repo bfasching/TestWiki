@@ -20,3 +20,5 @@ This one uses a permalink.
 Link to tracking document in Documents folder
 
 * Link to [tracking](../Documentation/tracking/Tracking.html)
+* Link 2 to [tracking](/Documentation/tracking/Tracking.html)
+* Link 3 to [tracking](Documentation/tracking/Tracking.html)

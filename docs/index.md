@@ -14,6 +14,7 @@ This one does and uses a relative path, renaming an "md" file as "html".
 This one uses a permalink.
 
 * Link to [topic2](sub/topic2.html)
+* Link 2 to [topic2](sub/topic2)
 
 ----
 

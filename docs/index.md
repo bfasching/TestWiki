@@ -8,7 +8,7 @@ These do not work
 
 This one does and uses a relative path, renaming an "md" file as "html".
 * Link 5 to [topic1](subdir/topic1.html) (works)
-* Link 5 to [topic1](subdir/topic1.md) 
+* Link 5 to [topic1](subdir/topic1.md) (works and is the way we should do it!)
 
 ---
 

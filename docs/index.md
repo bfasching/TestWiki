@@ -5,3 +5,7 @@ This is my TestWiki/docs/index.md file.
 * Link 3 to [topic1](/docs/subdir/topic1.html)
 * Link 4 to [topic1](/subdir/topic1.html)
 * Link 5 to [topic1](subdir/topic1.html) <--- this is the winner
+
+---
+
+* Link to [topic2](sub/topic2.html)

@@ -1,3 +1,3 @@
 # TestWiki
 
-Hello world.
+Hello world. This is the README.

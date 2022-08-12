@@ -1,7 +1,10 @@
+# Home page
+
 This is my TestWiki/index.md file.
 
 `woo`
 
+## Various links.
 
 These do not work
 * Link to [topic1](https://github.com/bfasching/TestWiki/blob/main/docs/subdir/topic1.html)
